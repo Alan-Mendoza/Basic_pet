@@ -1,0 +1,49 @@
+body {
+  background: url('../assets/paisaje.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color-de-fondo {
+  background: rgba(197, 188, 188, 0.4) !important;
+}
+
+.logo img {
+  width: 250px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #cccccc !important;
+}
+
+.media_img img {
+  height: 230px;
+  object-fit: cover;
+  padding: 10px;
+  -webkit-box-shadow: -1px 1px 12px 5px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 1px 12px 5px rgba(0,0,0,0.75);
+  box-shadow: -1px 1px 12px 5px rgba(0,0,0,0.75);
+
+}
+
+div .linea {
+  height: 3px;
+  background-color: #636060b9;
+}
+
+#footer a {
+  color: #ffffff !important;
+}
+
+a .icon__social {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 5px 10px;
+}
